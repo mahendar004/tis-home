@@ -1,7 +1,7 @@
 const M = 'https://tis.edu.in/_next/static/media/'
 export const assets = {
   logo: `${M}schoolLogo.95f6e121.png`,
-  campus: '/campus.jpg',
+  campus: '/campus.webp',
 }
 export const links = [
   { label: 'Home', href: '#top' }, { label: 'About', href: '#about' },
